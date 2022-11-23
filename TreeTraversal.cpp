@@ -62,6 +62,6 @@ int main() {
     root->right -> right = new Node(4);
     //preorder(root);
     //inorder(root);
-    postorder(root);
+     postorder(root);
     return 0;
  }
